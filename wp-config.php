@@ -23,19 +23,21 @@
 define( 'DB_NAME', 'myhotelwor_2232976533_database' );
 
 /** MySQL database username */
-define( 'DB_USER', 'hddzsidsiy' );
+define( 'DB_USER', 'hddzsidsiy@myhotelwor-2232976533-wpdbserver' );  // Use the correct username format
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'cexbat-vapga8-niBbeg' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'myhotelwor-2232976533-wpdbserver.mysql.database.azure.com' );
+define( 'DB_HOST', 'myhotelwor-2232976533-wpdbserver.mysql.database.azure.com' );  
+define( 'DB_PORT', '3306' ); 
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb3' );
 
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
+
 
 /**#@+
  * Authentication Unique Keys and Salts.
