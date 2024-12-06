@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'myhotelwor_2232976533_database' );
 
 /** MySQL database username */
-define( 'DB_USER', 'hddzsidsiy' );
+define( 'DB_USER', 'hddzsidsiy@myhotelwor-2232976533-wpdbserver' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'cexbat-vapga8-niBbeg' );
