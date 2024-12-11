@@ -1,0 +1,10 @@
+{
+    "name": "myhotel/wordpress",
+    "description": "A WordPress project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
