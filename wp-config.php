@@ -19,16 +19,16 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-define( 'DB_NAME', 'myhotelwor_2232976533_database' );
+define( 'DB_NAME', 'wordpresshotel-database' );
 
 /** MySQL database username */
-define( 'DB_USER', 'hddzsidsiy' );  // Use the correct username format
+define( 'DB_USER', 'ehheptqdna' );  // Use the correct username format
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'GoodPass111' );
+define( 'DB_PASSWORD', 'l0dk$aEyu8ggKWQr' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'myhotelwor-2232976533-wpdbserver.mysql.database.azure.com' );  
+define( 'DB_HOST', 'wordpresshotel-server.mysql.database.azure.com' );  
 define( 'DB_PORT', '3306' ); 
 
 /** Database Charset to use in creating database tables. */
